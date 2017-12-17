@@ -1,0 +1,6 @@
+Arrays.sort(list, String.CASE_INSENSITIVE_ORDER);
+		for (String dir : list) {
+			System.out.println(dir);
+		}
+		
+end
