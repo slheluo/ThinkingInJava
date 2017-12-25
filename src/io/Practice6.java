@@ -18,7 +18,6 @@ import book.net.mindview.util.ProcessFiles;
 public class Practice6 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		DateFormat dateFormat = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
 		try {
 			Date special = dateFormat.parse("2017-12-04 00:00:00");
